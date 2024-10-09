@@ -1,0 +1,384 @@
+date	state	type	beds
+01/01/2015	Johor	hospital_moh	3836
+01/01/2016	Johor	hospital_moh	4053
+01/01/2017	Johor	hospital_moh	4053
+01/01/2018	Johor	hospital_moh	4068
+01/01/2019	Johor	hospital_moh	4068
+01/01/2020	Johor	hospital_moh	4138
+01/01/2021	Johor	hospital_moh	4146
+01/01/2022	Johor	hospital_moh	4301
+01/01/2015	Johor	hospital_non_moh	0
+01/01/2016	Johor	hospital_non_moh	0
+01/01/2017	Johor	hospital_non_moh	0
+01/01/2018	Johor	hospital_non_moh	0
+01/01/2019	Johor	hospital_non_moh	0
+01/01/2020	Johor	hospital_non_moh	0
+01/01/2021	Johor	hospital_non_moh	0
+01/01/2022	Johor	hospital_non_moh	0
+01/01/2015	Johor	special_medical_institution	1132
+01/01/2016	Johor	special_medical_institution	1132
+01/01/2017	Johor	special_medical_institution	1132
+01/01/2018	Johor	special_medical_institution	1132
+01/01/2019	Johor	special_medical_institution	1132
+01/01/2020	Johor	special_medical_institution	1132
+01/01/2021	Johor	special_medical_institution	1132
+01/01/2022	Johor	special_medical_institution	1132
+01/01/2015	Kedah	hospital_moh	2653
+01/01/2016	Kedah	hospital_moh	2689
+01/01/2017	Kedah	hospital_moh	2703
+01/01/2018	Kedah	hospital_moh	2673
+01/01/2019	Kedah	hospital_moh	2711
+01/01/2020	Kedah	hospital_moh	2702
+01/01/2021	Kedah	hospital_moh	2755
+01/01/2022	Kedah	hospital_moh	2762
+01/01/2015	Kedah	hospital_non_moh	0
+01/01/2016	Kedah	hospital_non_moh	0
+01/01/2017	Kedah	hospital_non_moh	0
+01/01/2018	Kedah	hospital_non_moh	0
+01/01/2019	Kedah	hospital_non_moh	0
+01/01/2020	Kedah	hospital_non_moh	0
+01/01/2021	Kedah	hospital_non_moh	0
+01/01/2022	Kedah	hospital_non_moh	0
+01/01/2015	Kedah	special_medical_institution	0
+01/01/2016	Kedah	special_medical_institution	0
+01/01/2017	Kedah	special_medical_institution	0
+01/01/2018	Kedah	special_medical_institution	0
+01/01/2019	Kedah	special_medical_institution	0
+01/01/2020	Kedah	special_medical_institution	0
+01/01/2021	Kedah	special_medical_institution	0
+01/01/2022	Kedah	special_medical_institution	0
+01/01/2015	Kelantan	hospital_moh	1740
+01/01/2016	Kelantan	hospital_moh	1816
+01/01/2017	Kelantan	hospital_moh	1816
+01/01/2018	Kelantan	hospital_moh	1843
+01/01/2019	Kelantan	hospital_moh	1958
+01/01/2020	Kelantan	hospital_moh	1957
+01/01/2021	Kelantan	hospital_moh	1983
+01/01/2022	Kelantan	hospital_moh	2141
+01/01/2015	Kelantan	hospital_non_moh	769
+01/01/2016	Kelantan	hospital_non_moh	773
+01/01/2017	Kelantan	hospital_non_moh	774
+01/01/2018	Kelantan	hospital_non_moh	816
+01/01/2019	Kelantan	hospital_non_moh	829
+01/01/2020	Kelantan	hospital_non_moh	829
+01/01/2021	Kelantan	hospital_non_moh	829
+01/01/2022	Kelantan	hospital_non_moh	829
+01/01/2015	Kelantan	special_medical_institution	0
+01/01/2016	Kelantan	special_medical_institution	0
+01/01/2017	Kelantan	special_medical_institution	0
+01/01/2018	Kelantan	special_medical_institution	0
+01/01/2019	Kelantan	special_medical_institution	0
+01/01/2020	Kelantan	special_medical_institution	0
+01/01/2021	Kelantan	special_medical_institution	0
+01/01/2022	Kelantan	special_medical_institution	0
+01/01/2015	Melaka	hospital_moh	1245
+01/01/2016	Melaka	hospital_moh	1276
+01/01/2017	Melaka	hospital_moh	1276
+01/01/2018	Melaka	hospital_moh	1276
+01/01/2019	Melaka	hospital_moh	1285
+01/01/2020	Melaka	hospital_moh	1285
+01/01/2021	Melaka	hospital_moh	1295
+01/01/2022	Melaka	hospital_moh	1310
+01/01/2015	Melaka	hospital_non_moh	144
+01/01/2016	Melaka	hospital_non_moh	144
+01/01/2017	Melaka	hospital_non_moh	144
+01/01/2018	Melaka	hospital_non_moh	144
+01/01/2019	Melaka	hospital_non_moh	144
+01/01/2020	Melaka	hospital_non_moh	144
+01/01/2021	Melaka	hospital_non_moh	144
+01/01/2022	Melaka	hospital_non_moh	144
+01/01/2015	Melaka	special_medical_institution	0
+01/01/2016	Melaka	special_medical_institution	0
+01/01/2017	Melaka	special_medical_institution	0
+01/01/2018	Melaka	special_medical_institution	0
+01/01/2019	Melaka	special_medical_institution	0
+01/01/2020	Melaka	special_medical_institution	0
+01/01/2021	Melaka	special_medical_institution	0
+01/01/2022	Melaka	special_medical_institution	0
+01/01/2015	Negeri Sembilan	hospital_moh	1789
+01/01/2016	Negeri Sembilan	hospital_moh	1789
+01/01/2017	Negeri Sembilan	hospital_moh	1796
+01/01/2018	Negeri Sembilan	hospital_moh	1789
+01/01/2019	Negeri Sembilan	hospital_moh	1862
+01/01/2020	Negeri Sembilan	hospital_moh	1941
+01/01/2021	Negeri Sembilan	hospital_moh	1941
+01/01/2022	Negeri Sembilan	hospital_moh	1941
+01/01/2015	Negeri Sembilan	hospital_non_moh	36
+01/01/2016	Negeri Sembilan	hospital_non_moh	36
+01/01/2017	Negeri Sembilan	hospital_non_moh	36
+01/01/2018	Negeri Sembilan	hospital_non_moh	36
+01/01/2019	Negeri Sembilan	hospital_non_moh	36
+01/01/2020	Negeri Sembilan	hospital_non_moh	36
+01/01/2021	Negeri Sembilan	hospital_non_moh	36
+01/01/2022	Negeri Sembilan	hospital_non_moh	36
+01/01/2015	Negeri Sembilan	special_medical_institution	0
+01/01/2016	Negeri Sembilan	special_medical_institution	0
+01/01/2017	Negeri Sembilan	special_medical_institution	0
+01/01/2018	Negeri Sembilan	special_medical_institution	0
+01/01/2019	Negeri Sembilan	special_medical_institution	0
+01/01/2020	Negeri Sembilan	special_medical_institution	0
+01/01/2021	Negeri Sembilan	special_medical_institution	0
+01/01/2022	Negeri Sembilan	special_medical_institution	0
+01/01/2015	Pahang	hospital_moh	2158
+01/01/2016	Pahang	hospital_moh	2316
+01/01/2017	Pahang	hospital_moh	2312
+01/01/2018	Pahang	hospital_moh	2316
+01/01/2019	Pahang	hospital_moh	2316
+01/01/2020	Pahang	hospital_moh	2316
+01/01/2021	Pahang	hospital_moh	2316
+01/01/2022	Pahang	hospital_moh	2356
+01/01/2015	Pahang	hospital_non_moh	0
+01/01/2016	Pahang	hospital_non_moh	0
+01/01/2017	Pahang	hospital_non_moh	79
+01/01/2018	Pahang	hospital_non_moh	330
+01/01/2019	Pahang	hospital_non_moh	265
+01/01/2020	Pahang	hospital_non_moh	330
+01/01/2021	Pahang	hospital_non_moh	295
+01/01/2022	Pahang	hospital_non_moh	325
+01/01/2015	Pahang	special_medical_institution	0
+01/01/2016	Pahang	special_medical_institution	0
+01/01/2017	Pahang	special_medical_institution	0
+01/01/2018	Pahang	special_medical_institution	0
+01/01/2019	Pahang	special_medical_institution	0
+01/01/2020	Pahang	special_medical_institution	0
+01/01/2021	Pahang	special_medical_institution	0
+01/01/2022	Pahang	special_medical_institution	0
+01/01/2015	Perak	hospital_moh	3615
+01/01/2016	Perak	hospital_moh	3595
+01/01/2017	Perak	hospital_moh	3595
+01/01/2018	Perak	hospital_moh	3595
+01/01/2019	Perak	hospital_moh	3595
+01/01/2020	Perak	hospital_moh	3595
+01/01/2021	Perak	hospital_moh	3977
+01/01/2022	Perak	hospital_moh	3977
+01/01/2015	Perak	hospital_non_moh	147
+01/01/2016	Perak	hospital_non_moh	147
+01/01/2017	Perak	hospital_non_moh	147
+01/01/2018	Perak	hospital_non_moh	147
+01/01/2019	Perak	hospital_non_moh	147
+01/01/2020	Perak	hospital_non_moh	147
+01/01/2021	Perak	hospital_non_moh	147
+01/01/2022	Perak	hospital_non_moh	110
+01/01/2015	Perak	special_medical_institution	2000
+01/01/2016	Perak	special_medical_institution	1800
+01/01/2017	Perak	special_medical_institution	1800
+01/01/2018	Perak	special_medical_institution	1800
+01/01/2019	Perak	special_medical_institution	1800
+01/01/2020	Perak	special_medical_institution	1800
+01/01/2021	Perak	special_medical_institution	1800
+01/01/2022	Perak	special_medical_institution	1800
+01/01/2015	Perlis	hospital_moh	408
+01/01/2016	Perlis	hospital_moh	408
+01/01/2017	Perlis	hospital_moh	508
+01/01/2018	Perlis	hospital_moh	508
+01/01/2019	Perlis	hospital_moh	508
+01/01/2020	Perlis	hospital_moh	508
+01/01/2021	Perlis	hospital_moh	508
+01/01/2022	Perlis	hospital_moh	508
+01/01/2015	Perlis	hospital_non_moh	0
+01/01/2016	Perlis	hospital_non_moh	0
+01/01/2017	Perlis	hospital_non_moh	0
+01/01/2018	Perlis	hospital_non_moh	0
+01/01/2019	Perlis	hospital_non_moh	0
+01/01/2020	Perlis	hospital_non_moh	0
+01/01/2021	Perlis	hospital_non_moh	0
+01/01/2022	Perlis	hospital_non_moh	0
+01/01/2015	Perlis	special_medical_institution	0
+01/01/2016	Perlis	special_medical_institution	0
+01/01/2017	Perlis	special_medical_institution	0
+01/01/2018	Perlis	special_medical_institution	0
+01/01/2019	Perlis	special_medical_institution	0
+01/01/2020	Perlis	special_medical_institution	0
+01/01/2021	Perlis	special_medical_institution	0
+01/01/2022	Perlis	special_medical_institution	0
+01/01/2015	Pulau Pinang	hospital_moh	2046
+01/01/2016	Pulau Pinang	hospital_moh	2130
+01/01/2017	Pulau Pinang	hospital_moh	2065
+01/01/2018	Pulau Pinang	hospital_moh	2118
+01/01/2019	Pulau Pinang	hospital_moh	2113
+01/01/2020	Pulau Pinang	hospital_moh	2113
+01/01/2021	Pulau Pinang	hospital_moh	2133
+01/01/2022	Pulau Pinang	hospital_moh	2138
+01/01/2015	Pulau Pinang	hospital_non_moh	0
+01/01/2016	Pulau Pinang	hospital_non_moh	0
+01/01/2017	Pulau Pinang	hospital_non_moh	0
+01/01/2018	Pulau Pinang	hospital_non_moh	0
+01/01/2019	Pulau Pinang	hospital_non_moh	0
+01/01/2020	Pulau Pinang	hospital_non_moh	0
+01/01/2021	Pulau Pinang	hospital_non_moh	0
+01/01/2022	Pulau Pinang	hospital_non_moh	0
+01/01/2015	Pulau Pinang	special_medical_institution	0
+01/01/2016	Pulau Pinang	special_medical_institution	0
+01/01/2017	Pulau Pinang	special_medical_institution	0
+01/01/2018	Pulau Pinang	special_medical_institution	0
+01/01/2019	Pulau Pinang	special_medical_institution	0
+01/01/2020	Pulau Pinang	special_medical_institution	0
+01/01/2021	Pulau Pinang	special_medical_institution	0
+01/01/2022	Pulau Pinang	special_medical_institution	0
+01/01/2015	Sabah	hospital_moh	3825
+01/01/2016	Sabah	hospital_moh	3989
+01/01/2017	Sabah	hospital_moh	3931
+01/01/2018	Sabah	hospital_moh	3894
+01/01/2019	Sabah	hospital_moh	3922
+01/01/2020	Sabah	hospital_moh	4013
+01/01/2021	Sabah	hospital_moh	4043
+01/01/2022	Sabah	hospital_moh	4053
+01/01/2015	Sabah	hospital_non_moh	40
+01/01/2016	Sabah	hospital_non_moh	20
+01/01/2017	Sabah	hospital_non_moh	20
+01/01/2018	Sabah	hospital_non_moh	40
+01/01/2019	Sabah	hospital_non_moh	40
+01/01/2020	Sabah	hospital_non_moh	40
+01/01/2021	Sabah	hospital_non_moh	20
+01/01/2022	Sabah	hospital_non_moh	40
+01/01/2015	Sabah	special_medical_institution	806
+01/01/2016	Sabah	special_medical_institution	806
+01/01/2017	Sabah	special_medical_institution	926
+01/01/2018	Sabah	special_medical_institution	914
+01/01/2019	Sabah	special_medical_institution	914
+01/01/2020	Sabah	special_medical_institution	960
+01/01/2021	Sabah	special_medical_institution	960
+01/01/2022	Sabah	special_medical_institution	960
+01/01/2016	Sarawak	hospital_moh	3640
+01/01/2017	Sarawak	hospital_moh	3651
+01/01/2018	Sarawak	hospital_moh	3708
+01/01/2019	Sarawak	hospital_moh	3740
+01/01/2020	Sarawak	hospital_moh	3680
+01/01/2021	Sarawak	hospital_moh	3633
+01/01/2022	Sarawak	hospital_moh	3653
+01/01/2015	Sarawak	hospital_non_moh	0
+01/01/2016	Sarawak	hospital_non_moh	0
+01/01/2017	Sarawak	hospital_non_moh	0
+01/01/2018	Sarawak	hospital_non_moh	0
+01/01/2019	Sarawak	hospital_non_moh	0
+01/01/2020	Sarawak	hospital_non_moh	0
+01/01/2021	Sarawak	hospital_non_moh	0
+01/01/2022	Sarawak	hospital_non_moh	0
+01/01/2015	Sarawak	special_medical_institution	338
+01/01/2016	Sarawak	special_medical_institution	338
+01/01/2017	Sarawak	special_medical_institution	338
+01/01/2018	Sarawak	special_medical_institution	343
+01/01/2019	Sarawak	special_medical_institution	343
+01/01/2020	Sarawak	special_medical_institution	466
+01/01/2021	Sarawak	special_medical_institution	466
+01/01/2022	Sarawak	special_medical_institution	466
+01/01/2015	Selangor	hospital_moh	5275
+01/01/2016	Selangor	hospital_moh	5353
+01/01/2017	Selangor	hospital_moh	5273
+01/01/2018	Selangor	hospital_moh	5424
+01/01/2019	Selangor	hospital_moh	5739
+01/01/2020	Selangor	hospital_moh	5963
+01/01/2021	Selangor	hospital_moh	6179
+01/01/2022	Selangor	hospital_moh	6651
+01/01/2015	Selangor	hospital_non_moh	88
+01/01/2016	Selangor	hospital_non_moh	88
+01/01/2017	Selangor	hospital_non_moh	88
+01/01/2018	Selangor	hospital_non_moh	88
+01/01/2019	Selangor	hospital_non_moh	88
+01/01/2020	Selangor	hospital_non_moh	88
+01/01/2021	Selangor	hospital_non_moh	888
+01/01/2022	Selangor	hospital_non_moh	897
+01/01/2015	Selangor	special_medical_institution	130
+01/01/2016	Selangor	special_medical_institution	90
+01/01/2017	Selangor	special_medical_institution	110
+01/01/2018	Selangor	special_medical_institution	90
+01/01/2019	Selangor	special_medical_institution	80
+01/01/2020	Selangor	special_medical_institution	80
+01/01/2021	Selangor	special_medical_institution	92
+01/01/2022	Selangor	special_medical_institution	92
+01/01/2015	Terengganu	hospital_moh	1645
+01/01/2016	Terengganu	hospital_moh	1645
+01/01/2017	Terengganu	hospital_moh	1696
+01/01/2018	Terengganu	hospital_moh	1680
+01/01/2019	Terengganu	hospital_moh	1698
+01/01/2020	Terengganu	hospital_moh	1700
+01/01/2021	Terengganu	hospital_moh	1722
+01/01/2022	Terengganu	hospital_moh	1730
+01/01/2015	Terengganu	hospital_non_moh	0
+01/01/2016	Terengganu	hospital_non_moh	0
+01/01/2017	Terengganu	hospital_non_moh	0
+01/01/2018	Terengganu	hospital_non_moh	0
+01/01/2019	Terengganu	hospital_non_moh	0
+01/01/2020	Terengganu	hospital_non_moh	0
+01/01/2021	Terengganu	hospital_non_moh	0
+01/01/2022	Terengganu	hospital_non_moh	0
+01/01/2015	Terengganu	special_medical_institution	0
+01/01/2016	Terengganu	special_medical_institution	0
+01/01/2017	Terengganu	special_medical_institution	0
+01/01/2018	Terengganu	special_medical_institution	0
+01/01/2019	Terengganu	special_medical_institution	0
+01/01/2020	Terengganu	special_medical_institution	0
+01/01/2021	Terengganu	special_medical_institution	0
+01/01/2022	Terengganu	special_medical_institution	0
+01/01/2015	W.P. Kuala Lumpur	hospital_moh	2143
+01/01/2016	W.P. Kuala Lumpur	hospital_moh	2131
+01/01/2017	W.P. Kuala Lumpur	hospital_moh	2131
+01/01/2018	W.P. Kuala Lumpur	hospital_moh	2125
+01/01/2019	W.P. Kuala Lumpur	hospital_moh	2125
+01/01/2020	W.P. Kuala Lumpur	hospital_moh	2125
+01/01/2021	W.P. Kuala Lumpur	hospital_moh	2125
+01/01/2022	W.P. Kuala Lumpur	hospital_moh	1553
+01/01/2015	W.P. Kuala Lumpur	hospital_non_moh	2474
+01/01/2016	W.P. Kuala Lumpur	hospital_non_moh	2475
+01/01/2017	W.P. Kuala Lumpur	hospital_non_moh	2604
+01/01/2018	W.P. Kuala Lumpur	hospital_non_moh	2586
+01/01/2019	W.P. Kuala Lumpur	hospital_non_moh	2503
+01/01/2020	W.P. Kuala Lumpur	hospital_non_moh	2574
+01/01/2021	W.P. Kuala Lumpur	hospital_non_moh	2573
+01/01/2022	W.P. Kuala Lumpur	hospital_non_moh	2437
+01/01/2015	W.P. Kuala Lumpur	special_medical_institution	284
+01/01/2016	W.P. Kuala Lumpur	special_medical_institution	284
+01/01/2017	W.P. Kuala Lumpur	special_medical_institution	274
+01/01/2018	W.P. Kuala Lumpur	special_medical_institution	284
+01/01/2019	W.P. Kuala Lumpur	special_medical_institution	284
+01/01/2020	W.P. Kuala Lumpur	special_medical_institution	884
+01/01/2021	W.P. Kuala Lumpur	special_medical_institution	884
+01/01/2022	W.P. Kuala Lumpur	special_medical_institution	884
+01/01/2015	W.P. Labuan	hospital_moh	122
+01/01/2016	W.P. Labuan	hospital_moh	122
+01/01/2017	W.P. Labuan	hospital_moh	122
+01/01/2018	W.P. Labuan	hospital_moh	122
+01/01/2019	W.P. Labuan	hospital_moh	122
+01/01/2020	W.P. Labuan	hospital_moh	122
+01/01/2021	W.P. Labuan	hospital_moh	122
+01/01/2022	W.P. Labuan	hospital_moh	122
+01/01/2015	W.P. Labuan	hospital_non_moh	0
+01/01/2016	W.P. Labuan	hospital_non_moh	0
+01/01/2017	W.P. Labuan	hospital_non_moh	0
+01/01/2018	W.P. Labuan	hospital_non_moh	0
+01/01/2019	W.P. Labuan	hospital_non_moh	0
+01/01/2020	W.P. Labuan	hospital_non_moh	0
+01/01/2021	W.P. Labuan	hospital_non_moh	0
+01/01/2022	W.P. Labuan	hospital_non_moh	0
+01/01/2015	W.P. Labuan	special_medical_institution	0
+01/01/2016	W.P. Labuan	special_medical_institution	0
+01/01/2017	W.P. Labuan	special_medical_institution	0
+01/01/2018	W.P. Labuan	special_medical_institution	0
+01/01/2019	W.P. Labuan	special_medical_institution	0
+01/01/2020	W.P. Labuan	special_medical_institution	0
+01/01/2021	W.P. Labuan	special_medical_institution	0
+01/01/2022	W.P. Labuan	special_medical_institution	0
+01/01/2015	W.P. Putrajaya	hospital_moh	341
+01/01/2016	W.P. Putrajaya	hospital_moh	341
+01/01/2017	W.P. Putrajaya	hospital_moh	402
+01/01/2018	W.P. Putrajaya	hospital_moh	470
+01/01/2019	W.P. Putrajaya	hospital_moh	369
+01/01/2020	W.P. Putrajaya	hospital_moh	385
+01/01/2021	W.P. Putrajaya	hospital_moh	385
+01/01/2022	W.P. Putrajaya	hospital_moh	385
+01/01/2015	W.P. Putrajaya	hospital_non_moh	0
+01/01/2016	W.P. Putrajaya	hospital_non_moh	0
+01/01/2017	W.P. Putrajaya	hospital_non_moh	0
+01/01/2018	W.P. Putrajaya	hospital_non_moh	0
+01/01/2019	W.P. Putrajaya	hospital_non_moh	0
+01/01/2020	W.P. Putrajaya	hospital_non_moh	0
+01/01/2021	W.P. Putrajaya	hospital_non_moh	0
+01/01/2022	W.P. Putrajaya	hospital_non_moh	0
+01/01/2015	W.P. Putrajaya	special_medical_institution	252
+01/01/2016	W.P. Putrajaya	special_medical_institution	252
+01/01/2017	W.P. Putrajaya	special_medical_institution	252
+01/01/2018	W.P. Putrajaya	special_medical_institution	252
+01/01/2019	W.P. Putrajaya	special_medical_institution	252
+01/01/2020	W.P. Putrajaya	special_medical_institution	252
+01/01/2021	W.P. Putrajaya	special_medical_institution	252
+01/01/2022	W.P. Putrajaya	special_medical_institution	252
