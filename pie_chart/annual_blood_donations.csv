@@ -1,0 +1,1236 @@
+year,state,blood_type,donations
+2006,Johor,a,2132
+2006,Johor,ab,537
+2006,Johor,all,8487
+2006,Johor,b,2236
+2006,Johor,o,3582
+2006,Kedah,a,7687
+2006,Kedah,ab,2268
+2006,Kedah,all,30056
+2006,Kedah,b,8433
+2006,Kedah,o,11668
+2006,Kelantan,a,1266
+2006,Kelantan,ab,371
+2006,Kelantan,all,5328
+2006,Kelantan,b,1453
+2006,Kelantan,o,2238
+2006,Melaka,a,1746
+2006,Melaka,ab,472
+2006,Melaka,all,6976
+2006,Melaka,b,1842
+2006,Melaka,o,2916
+2006,Negeri Sembilan,a,971
+2006,Negeri Sembilan,ab,259
+2006,Negeri Sembilan,all,3887
+2006,Negeri Sembilan,b,1021
+2006,Negeri Sembilan,o,1636
+2006,Pahang,a,841
+2006,Pahang,ab,220
+2006,Pahang,all,3258
+2006,Pahang,b,904
+2006,Pahang,o,1293
+2006,Perak,a,16
+2006,Perak,ab,2
+2006,Perak,all,53
+2006,Perak,b,13
+2006,Perak,o,22
+2006,Pulau Pinang,a,0
+2006,Pulau Pinang,ab,0
+2006,Pulau Pinang,all,0
+2006,Pulau Pinang,b,0
+2006,Pulau Pinang,o,0
+2006,Sabah,a,633
+2006,Sabah,ab,130
+2006,Sabah,all,2936
+2006,Sabah,b,652
+2006,Sabah,o,1521
+2006,Sarawak,a,35
+2006,Sarawak,ab,5
+2006,Sarawak,all,121
+2006,Sarawak,b,40
+2006,Sarawak,o,41
+2006,Selangor,a,941
+2006,Selangor,ab,258
+2006,Selangor,all,3975
+2006,Selangor,b,1118
+2006,Selangor,o,1658
+2006,Terengganu,a,5177
+2006,Terengganu,ab,1465
+2006,Terengganu,all,20341
+2006,Terengganu,b,5742
+2006,Terengganu,o,7957
+2006,W.P. Kuala Lumpur,a,33593
+2006,W.P. Kuala Lumpur,ab,8776
+2006,W.P. Kuala Lumpur,all,133474
+2006,W.P. Kuala Lumpur,b,36141
+2006,W.P. Kuala Lumpur,o,54960
+2007,Johor,a,1529
+2007,Johor,ab,436
+2007,Johor,all,6462
+2007,Johor,b,1740
+2007,Johor,o,2757
+2007,Kedah,a,6859
+2007,Kedah,ab,2008
+2007,Kedah,all,27126
+2007,Kedah,b,7787
+2007,Kedah,o,10472
+2007,Kelantan,a,2493
+2007,Kelantan,ab,646
+2007,Kelantan,all,9786
+2007,Kelantan,b,2603
+2007,Kelantan,o,4044
+2007,Melaka,a,6113
+2007,Melaka,ab,1620
+2007,Melaka,all,24078
+2007,Melaka,b,6420
+2007,Melaka,o,9925
+2007,Negeri Sembilan,a,3300
+2007,Negeri Sembilan,ab,844
+2007,Negeri Sembilan,all,13284
+2007,Negeri Sembilan,b,3624
+2007,Negeri Sembilan,o,5516
+2007,Pahang,a,844
+2007,Pahang,ab,236
+2007,Pahang,all,3237
+2007,Pahang,b,887
+2007,Pahang,o,1270
+2007,Perak,a,20
+2007,Perak,ab,4
+2007,Perak,all,53
+2007,Perak,b,14
+2007,Perak,o,15
+2007,Pulau Pinang,a,0
+2007,Pulau Pinang,ab,0
+2007,Pulau Pinang,all,0
+2007,Pulau Pinang,b,0
+2007,Pulau Pinang,o,0
+2007,Sabah,a,2727
+2007,Sabah,ab,633
+2007,Sabah,all,12706
+2007,Sabah,b,3004
+2007,Sabah,o,6342
+2007,Sarawak,a,46
+2007,Sarawak,ab,8
+2007,Sarawak,all,180
+2007,Sarawak,b,52
+2007,Sarawak,o,74
+2007,Selangor,a,4497
+2007,Selangor,ab,1181
+2007,Selangor,all,18184
+2007,Selangor,b,5092
+2007,Selangor,o,7414
+2007,Terengganu,a,4740
+2007,Terengganu,ab,1309
+2007,Terengganu,all,18682
+2007,Terengganu,b,5444
+2007,Terengganu,o,7189
+2007,W.P. Kuala Lumpur,a,36422
+2007,W.P. Kuala Lumpur,ab,9534
+2007,W.P. Kuala Lumpur,all,145600
+2007,W.P. Kuala Lumpur,b,39715
+2007,W.P. Kuala Lumpur,o,59923
+2008,Johor,a,2257
+2008,Johor,ab,596
+2008,Johor,all,9336
+2008,Johor,b,2523
+2008,Johor,o,3960
+2008,Kedah,a,10695
+2008,Kedah,ab,3064
+2008,Kedah,all,42739
+2008,Kedah,b,12130
+2008,Kedah,o,16850
+2008,Kelantan,a,2787
+2008,Kelantan,ab,818
+2008,Kelantan,all,11308
+2008,Kelantan,b,3000
+2008,Kelantan,o,4703
+2008,Melaka,a,6573
+2008,Melaka,ab,1648
+2008,Melaka,all,26107
+2008,Melaka,b,7086
+2008,Melaka,o,10800
+2008,Negeri Sembilan,a,3416
+2008,Negeri Sembilan,ab,878
+2008,Negeri Sembilan,all,13723
+2008,Negeri Sembilan,b,3786
+2008,Negeri Sembilan,o,5643
+2008,Pahang,a,790
+2008,Pahang,ab,203
+2008,Pahang,all,3140
+2008,Pahang,b,917
+2008,Pahang,o,1230
+2008,Perak,a,5963
+2008,Perak,ab,1595
+2008,Perak,all,23714
+2008,Perak,b,6569
+2008,Perak,o,9587
+2008,Pulau Pinang,a,0
+2008,Pulau Pinang,ab,0
+2008,Pulau Pinang,all,0
+2008,Pulau Pinang,b,0
+2008,Pulau Pinang,o,0
+2008,Sabah,a,4167
+2008,Sabah,ab,960
+2008,Sabah,all,18820
+2008,Sabah,b,4541
+2008,Sabah,o,9152
+2008,Sarawak,a,2948
+2008,Sarawak,ab,831
+2008,Sarawak,all,12532
+2008,Sarawak,b,3553
+2008,Sarawak,o,5200
+2008,Selangor,a,4392
+2008,Selangor,ab,1198
+2008,Selangor,all,17769
+2008,Selangor,b,5015
+2008,Selangor,o,7164
+2008,Terengganu,a,3494
+2008,Terengganu,ab,998
+2008,Terengganu,all,13774
+2008,Terengganu,b,3972
+2008,Terengganu,o,5310
+2008,W.P. Kuala Lumpur,a,38874
+2008,W.P. Kuala Lumpur,ab,10170
+2008,W.P. Kuala Lumpur,all,155405
+2008,W.P. Kuala Lumpur,b,42615
+2008,W.P. Kuala Lumpur,o,63742
+2009,Johor,a,6382
+2009,Johor,ab,1552
+2009,Johor,all,25702
+2009,Johor,b,6873
+2009,Johor,o,10895
+2009,Kedah,a,11233
+2009,Kedah,ab,3118
+2009,Kedah,all,44862
+2009,Kedah,b,12816
+2009,Kedah,o,17695
+2009,Kelantan,a,3032
+2009,Kelantan,ab,757
+2009,Kelantan,all,11520
+2009,Kelantan,b,3031
+2009,Kelantan,o,4700
+2009,Melaka,a,6809
+2009,Melaka,ab,1740
+2009,Melaka,all,26653
+2009,Melaka,b,7161
+2009,Melaka,o,10943
+2009,Negeri Sembilan,a,3269
+2009,Negeri Sembilan,ab,847
+2009,Negeri Sembilan,all,13001
+2009,Negeri Sembilan,b,3559
+2009,Negeri Sembilan,o,5326
+2009,Pahang,a,914
+2009,Pahang,ab,244
+2009,Pahang,all,3414
+2009,Pahang,b,953
+2009,Pahang,o,1303
+2009,Perak,a,6501
+2009,Perak,ab,1719
+2009,Perak,all,26092
+2009,Perak,b,7187
+2009,Perak,o,10685
+2009,Pulau Pinang,a,0
+2009,Pulau Pinang,ab,0
+2009,Pulau Pinang,all,0
+2009,Pulau Pinang,b,0
+2009,Pulau Pinang,o,0
+2009,Sabah,a,4403
+2009,Sabah,ab,957
+2009,Sabah,all,19571
+2009,Sabah,b,4607
+2009,Sabah,o,9604
+2009,Sarawak,a,3832
+2009,Sarawak,ab,1040
+2009,Sarawak,all,15843
+2009,Sarawak,b,4459
+2009,Sarawak,o,6512
+2009,Selangor,a,5418
+2009,Selangor,ab,1458
+2009,Selangor,all,21668
+2009,Selangor,b,5989
+2009,Selangor,o,8803
+2009,Terengganu,a,3602
+2009,Terengganu,ab,997
+2009,Terengganu,all,14262
+2009,Terengganu,b,4164
+2009,Terengganu,o,5499
+2009,W.P. Kuala Lumpur,a,40642
+2009,W.P. Kuala Lumpur,ab,10840
+2009,W.P. Kuala Lumpur,all,162692
+2009,W.P. Kuala Lumpur,b,44314
+2009,W.P. Kuala Lumpur,o,66892
+2010,Johor,a,7890
+2010,Johor,ab,2110
+2010,Johor,all,32535
+2010,Johor,b,8822
+2010,Johor,o,13713
+2010,Kedah,a,11936
+2010,Kedah,ab,3323
+2010,Kedah,all,47301
+2010,Kedah,b,13263
+2010,Kedah,o,18779
+2010,Kelantan,a,3050
+2010,Kelantan,ab,930
+2010,Kelantan,all,12607
+2010,Kelantan,b,3679
+2010,Kelantan,o,4948
+2010,Melaka,a,7036
+2010,Melaka,ab,1732
+2010,Melaka,all,27341
+2010,Melaka,b,7351
+2010,Melaka,o,11222
+2010,Negeri Sembilan,a,3491
+2010,Negeri Sembilan,ab,931
+2010,Negeri Sembilan,all,14111
+2010,Negeri Sembilan,b,3833
+2010,Negeri Sembilan,o,5856
+2010,Pahang,a,876
+2010,Pahang,ab,237
+2010,Pahang,all,3322
+2010,Pahang,b,932
+2010,Pahang,o,1277
+2010,Perak,a,7058
+2010,Perak,ab,1837
+2010,Perak,all,28340
+2010,Perak,b,7911
+2010,Perak,o,11534
+2010,Pulau Pinang,a,0
+2010,Pulau Pinang,ab,0
+2010,Pulau Pinang,all,0
+2010,Pulau Pinang,b,0
+2010,Pulau Pinang,o,0
+2010,Sabah,a,4091
+2010,Sabah,ab,948
+2010,Sabah,all,18483
+2010,Sabah,b,4412
+2010,Sabah,o,9032
+2010,Sarawak,a,4033
+2010,Sarawak,ab,1147
+2010,Sarawak,all,16798
+2010,Sarawak,b,4867
+2010,Sarawak,o,6751
+2010,Selangor,a,6220
+2010,Selangor,ab,1596
+2010,Selangor,all,24769
+2010,Selangor,b,6839
+2010,Selangor,o,10113
+2010,Terengganu,a,3635
+2010,Terengganu,ab,1003
+2010,Terengganu,all,14610
+2010,Terengganu,b,4239
+2010,Terengganu,o,5733
+2010,W.P. Kuala Lumpur,a,38070
+2010,W.P. Kuala Lumpur,ab,10212
+2010,W.P. Kuala Lumpur,all,152946
+2010,W.P. Kuala Lumpur,b,41505
+2010,W.P. Kuala Lumpur,o,63152
+2011,Johor,a,8094
+2011,Johor,ab,1733
+2011,Johor,all,32812
+2011,Johor,b,8978
+2011,Johor,o,14007
+2011,Kedah,a,13559
+2011,Kedah,ab,3729
+2011,Kedah,all,53314
+2011,Kedah,b,14896
+2011,Kedah,o,21130
+2011,Kelantan,a,2633
+2011,Kelantan,ab,787
+2011,Kelantan,all,10916
+2011,Kelantan,b,3156
+2011,Kelantan,o,4340
+2011,Melaka,a,6883
+2011,Melaka,ab,1795
+2011,Melaka,all,27532
+2011,Melaka,b,7399
+2011,Melaka,o,11455
+2011,Negeri Sembilan,a,3678
+2011,Negeri Sembilan,ab,1012
+2011,Negeri Sembilan,all,14498
+2011,Negeri Sembilan,b,3948
+2011,Negeri Sembilan,o,5860
+2011,Pahang,a,1950
+2011,Pahang,ab,470
+2011,Pahang,all,7458
+2011,Pahang,b,2082
+2011,Pahang,o,2956
+2011,Perak,a,8170
+2011,Perak,ab,2105
+2011,Perak,all,32125
+2011,Perak,b,8938
+2011,Perak,o,12912
+2011,Pulau Pinang,a,0
+2011,Pulau Pinang,ab,0
+2011,Pulau Pinang,all,0
+2011,Pulau Pinang,b,0
+2011,Pulau Pinang,o,0
+2011,Sabah,a,4501
+2011,Sabah,ab,1079
+2011,Sabah,all,20253
+2011,Sabah,b,4794
+2011,Sabah,o,9879
+2011,Sarawak,a,3990
+2011,Sarawak,ab,1091
+2011,Sarawak,all,16542
+2011,Sarawak,b,4841
+2011,Sarawak,o,6620
+2011,Selangor,a,6441
+2011,Selangor,ab,1716
+2011,Selangor,all,25947
+2011,Selangor,b,7208
+2011,Selangor,o,10582
+2011,Terengganu,a,3708
+2011,Terengganu,ab,990
+2011,Terengganu,all,14803
+2011,Terengganu,b,4384
+2011,Terengganu,o,5721
+2011,W.P. Kuala Lumpur,a,40232
+2011,W.P. Kuala Lumpur,ab,10595
+2011,W.P. Kuala Lumpur,all,160551
+2011,W.P. Kuala Lumpur,b,43511
+2011,W.P. Kuala Lumpur,o,66206
+2012,Johor,a,8642
+2012,Johor,ab,1795
+2012,Johor,all,34180
+2012,Johor,b,9228
+2012,Johor,o,14515
+2012,Kedah,a,13610
+2012,Kedah,ab,3783
+2012,Kedah,all,53664
+2012,Kedah,b,15184
+2012,Kedah,o,21087
+2012,Kelantan,a,2414
+2012,Kelantan,ab,682
+2012,Kelantan,all,9052
+2012,Kelantan,b,2599
+2012,Kelantan,o,3356
+2012,Melaka,a,7076
+2012,Melaka,ab,1838
+2012,Melaka,all,27807
+2012,Melaka,b,7442
+2012,Melaka,o,11451
+2012,Negeri Sembilan,a,3608
+2012,Negeri Sembilan,ab,955
+2012,Negeri Sembilan,all,14299
+2012,Negeri Sembilan,b,3988
+2012,Negeri Sembilan,o,5748
+2012,Pahang,a,3180
+2012,Pahang,ab,871
+2012,Pahang,all,12587
+2012,Pahang,b,3481
+2012,Pahang,o,5055
+2012,Perak,a,8572
+2012,Perak,ab,2161
+2012,Perak,all,33604
+2012,Perak,b,9253
+2012,Perak,o,13618
+2012,Pulau Pinang,a,0
+2012,Pulau Pinang,ab,0
+2012,Pulau Pinang,all,0
+2012,Pulau Pinang,b,0
+2012,Pulau Pinang,o,0
+2012,Sabah,a,4818
+2012,Sabah,ab,1136
+2012,Sabah,all,21333
+2012,Sabah,b,5096
+2012,Sabah,o,10283
+2012,Sarawak,a,4160
+2012,Sarawak,ab,1159
+2012,Sarawak,all,17072
+2012,Sarawak,b,4936
+2012,Sarawak,o,6817
+2012,Selangor,a,6149
+2012,Selangor,ab,1573
+2012,Selangor,all,24383
+2012,Selangor,b,6812
+2012,Selangor,o,9849
+2012,Terengganu,a,3573
+2012,Terengganu,ab,1062
+2012,Terengganu,all,14718
+2012,Terengganu,b,4234
+2012,Terengganu,o,5849
+2012,W.P. Kuala Lumpur,a,40809
+2012,W.P. Kuala Lumpur,ab,10650
+2012,W.P. Kuala Lumpur,all,162027
+2012,W.P. Kuala Lumpur,b,43817
+2012,W.P. Kuala Lumpur,o,66742
+2013,Johor,a,8672
+2013,Johor,ab,1822
+2013,Johor,all,34370
+2013,Johor,b,9362
+2013,Johor,o,14514
+2013,Kedah,a,13997
+2013,Kedah,ab,3829
+2013,Kedah,all,54989
+2013,Kedah,b,15557
+2013,Kedah,o,21606
+2013,Kelantan,a,2660
+2013,Kelantan,ab,706
+2013,Kelantan,all,10351
+2013,Kelantan,b,2963
+2013,Kelantan,o,4022
+2013,Melaka,a,7352
+2013,Melaka,ab,1920
+2013,Melaka,all,29156
+2013,Melaka,b,7858
+2013,Melaka,o,12026
+2013,Negeri Sembilan,a,4008
+2013,Negeri Sembilan,ab,1016
+2013,Negeri Sembilan,all,15834
+2013,Negeri Sembilan,b,4284
+2013,Negeri Sembilan,o,6526
+2013,Pahang,a,2891
+2013,Pahang,ab,812
+2013,Pahang,all,11491
+2013,Pahang,b,3195
+2013,Pahang,o,4592
+2013,Perak,a,9774
+2013,Perak,ab,2475
+2013,Perak,all,38515
+2013,Perak,b,10639
+2013,Perak,o,15627
+2013,Pulau Pinang,a,0
+2013,Pulau Pinang,ab,0
+2013,Pulau Pinang,all,0
+2013,Pulau Pinang,b,0
+2013,Pulau Pinang,o,0
+2013,Sabah,a,4912
+2013,Sabah,ab,1090
+2013,Sabah,all,22326
+2013,Sabah,b,5159
+2013,Sabah,o,11165
+2013,Sarawak,a,4700
+2013,Sarawak,ab,1274
+2013,Sarawak,all,19548
+2013,Sarawak,b,5684
+2013,Sarawak,o,7890
+2013,Selangor,a,5646
+2013,Selangor,ab,1437
+2013,Selangor,all,22589
+2013,Selangor,b,6232
+2013,Selangor,o,9273
+2013,Terengganu,a,3527
+2013,Terengganu,ab,1064
+2013,Terengganu,all,13915
+2013,Terengganu,b,3949
+2013,Terengganu,o,5375
+2013,W.P. Kuala Lumpur,a,41879
+2013,W.P. Kuala Lumpur,ab,10873
+2013,W.P. Kuala Lumpur,all,166823
+2013,W.P. Kuala Lumpur,b,45314
+2013,W.P. Kuala Lumpur,o,68745
+2014,Johor,a,8944
+2014,Johor,ab,2152
+2014,Johor,all,35820
+2014,Johor,b,9686
+2014,Johor,o,15038
+2014,Kedah,a,14475
+2014,Kedah,ab,4006
+2014,Kedah,all,57014
+2014,Kedah,b,16235
+2014,Kedah,o,22298
+2014,Kelantan,a,2732
+2014,Kelantan,ab,749
+2014,Kelantan,all,10504
+2014,Kelantan,b,3132
+2014,Kelantan,o,3891
+2014,Melaka,a,7113
+2014,Melaka,ab,1825
+2014,Melaka,all,28079
+2014,Melaka,b,7579
+2014,Melaka,o,11562
+2014,Negeri Sembilan,a,3765
+2014,Negeri Sembilan,ab,978
+2014,Negeri Sembilan,all,14785
+2014,Negeri Sembilan,b,3928
+2014,Negeri Sembilan,o,6114
+2014,Pahang,a,2836
+2014,Pahang,ab,780
+2014,Pahang,all,11550
+2014,Pahang,b,3265
+2014,Pahang,o,4669
+2014,Perak,a,9645
+2014,Perak,ab,2570
+2014,Perak,all,38455
+2014,Perak,b,10646
+2014,Perak,o,15594
+2014,Pulau Pinang,a,6857
+2014,Pulau Pinang,ab,1734
+2014,Pulau Pinang,all,27069
+2014,Pulau Pinang,b,7309
+2014,Pulau Pinang,o,11169
+2014,Sabah,a,4923
+2014,Sabah,ab,1105
+2014,Sabah,all,22507
+2014,Sabah,b,5231
+2014,Sabah,o,11248
+2014,Sarawak,a,6856
+2014,Sarawak,ab,1969
+2014,Sarawak,all,28731
+2014,Sarawak,b,8219
+2014,Sarawak,o,11687
+2014,Selangor,a,6012
+2014,Selangor,ab,1571
+2014,Selangor,all,24102
+2014,Selangor,b,6580
+2014,Selangor,o,9939
+2014,Terengganu,a,3548
+2014,Terengganu,ab,963
+2014,Terengganu,all,13930
+2014,Terengganu,b,4025
+2014,Terengganu,o,5394
+2014,W.P. Kuala Lumpur,a,43628
+2014,W.P. Kuala Lumpur,ab,11455
+2014,W.P. Kuala Lumpur,all,175260
+2014,W.P. Kuala Lumpur,b,47924
+2014,W.P. Kuala Lumpur,o,72244
+2015,Johor,a,9008
+2015,Johor,ab,1989
+2015,Johor,all,36912
+2015,Johor,b,10031
+2015,Johor,o,15884
+2015,Kedah,a,15103
+2015,Kedah,ab,4166
+2015,Kedah,all,59888
+2015,Kedah,b,16991
+2015,Kedah,o,23628
+2015,Kelantan,a,4355
+2015,Kelantan,ab,1069
+2015,Kelantan,all,15468
+2015,Kelantan,b,4179
+2015,Kelantan,o,5865
+2015,Melaka,a,7200
+2015,Melaka,ab,1883
+2015,Melaka,all,28539
+2015,Melaka,b,7643
+2015,Melaka,o,11813
+2015,Negeri Sembilan,a,4276
+2015,Negeri Sembilan,ab,1116
+2015,Negeri Sembilan,all,17011
+2015,Negeri Sembilan,b,4611
+2015,Negeri Sembilan,o,7008
+2015,Pahang,a,2937
+2015,Pahang,ab,827
+2015,Pahang,all,11677
+2015,Pahang,b,3265
+2015,Pahang,o,4648
+2015,Perak,a,10078
+2015,Perak,ab,2612
+2015,Perak,all,39803
+2015,Perak,b,11008
+2015,Perak,o,16105
+2015,Pulau Pinang,a,10421
+2015,Pulau Pinang,ab,2608
+2015,Pulau Pinang,all,40913
+2015,Pulau Pinang,b,10904
+2015,Pulau Pinang,o,16980
+2015,Sabah,a,5175
+2015,Sabah,ab,1170
+2015,Sabah,all,23781
+2015,Sabah,b,5511
+2015,Sabah,o,11925
+2015,Sarawak,a,9214
+2015,Sarawak,ab,2636
+2015,Sarawak,all,37478
+2015,Sarawak,b,10586
+2015,Sarawak,o,15042
+2015,Selangor,a,6183
+2015,Selangor,ab,1662
+2015,Selangor,all,25210
+2015,Selangor,b,7069
+2015,Selangor,o,10295
+2015,Terengganu,a,3860
+2015,Terengganu,ab,1056
+2015,Terengganu,all,15283
+2015,Terengganu,b,4411
+2015,Terengganu,o,5956
+2015,W.P. Kuala Lumpur,a,46106
+2015,W.P. Kuala Lumpur,ab,11726
+2015,W.P. Kuala Lumpur,all,183859
+2015,W.P. Kuala Lumpur,b,50439
+2015,W.P. Kuala Lumpur,o,75581
+2016,Johor,a,7585
+2016,Johor,ab,1740
+2016,Johor,all,30601
+2016,Johor,b,8081
+2016,Johor,o,13195
+2016,Kedah,a,14555
+2016,Kedah,ab,4092
+2016,Kedah,all,58750
+2016,Kedah,b,16528
+2016,Kedah,o,23575
+2016,Kelantan,a,4046
+2016,Kelantan,ab,1012
+2016,Kelantan,all,15111
+2016,Kelantan,b,4159
+2016,Kelantan,o,5894
+2016,Melaka,a,7744
+2016,Melaka,ab,1930
+2016,Melaka,all,29942
+2016,Melaka,b,7922
+2016,Melaka,o,12346
+2016,Negeri Sembilan,a,4392
+2016,Negeri Sembilan,ab,1172
+2016,Negeri Sembilan,all,17955
+2016,Negeri Sembilan,b,4923
+2016,Negeri Sembilan,o,7468
+2016,Pahang,a,2707
+2016,Pahang,ab,808
+2016,Pahang,all,10995
+2016,Pahang,b,3116
+2016,Pahang,o,4364
+2016,Perak,a,10415
+2016,Perak,ab,2769
+2016,Perak,all,41848
+2016,Perak,b,11472
+2016,Perak,o,17192
+2016,Pulau Pinang,a,10812
+2016,Pulau Pinang,ab,2808
+2016,Pulau Pinang,all,42515
+2016,Pulau Pinang,b,11591
+2016,Pulau Pinang,o,17304
+2016,Sabah,a,6512
+2016,Sabah,ab,1465
+2016,Sabah,all,29269
+2016,Sabah,b,6970
+2016,Sabah,o,14322
+2016,Sarawak,a,8822
+2016,Sarawak,ab,2556
+2016,Sarawak,all,35965
+2016,Sarawak,b,10239
+2016,Sarawak,o,14348
+2016,Selangor,a,6056
+2016,Selangor,ab,1680
+2016,Selangor,all,24986
+2016,Selangor,b,6900
+2016,Selangor,o,10349
+2016,Terengganu,a,3844
+2016,Terengganu,ab,1085
+2016,Terengganu,all,15308
+2016,Terengganu,b,4365
+2016,Terengganu,o,6014
+2016,W.P. Kuala Lumpur,a,45038
+2016,W.P. Kuala Lumpur,ab,10830
+2016,W.P. Kuala Lumpur,all,180044
+2016,W.P. Kuala Lumpur,b,49127
+2016,W.P. Kuala Lumpur,o,75039
+2017,Johor,a,8521
+2017,Johor,ab,1797
+2017,Johor,all,34549
+2017,Johor,b,9201
+2017,Johor,o,15029
+2017,Kedah,a,15328
+2017,Kedah,ab,4376
+2017,Kedah,all,61386
+2017,Kedah,b,17383
+2017,Kedah,o,24299
+2017,Kelantan,a,11
+2017,Kelantan,ab,3
+2017,Kelantan,all,35
+2017,Kelantan,b,13
+2017,Kelantan,o,8
+2017,Melaka,a,7754
+2017,Melaka,ab,1922
+2017,Melaka,all,30233
+2017,Melaka,b,7814
+2017,Melaka,o,12743
+2017,Negeri Sembilan,a,4160
+2017,Negeri Sembilan,ab,1115
+2017,Negeri Sembilan,all,17111
+2017,Negeri Sembilan,b,4577
+2017,Negeri Sembilan,o,7259
+2017,Pahang,a,2506
+2017,Pahang,ab,676
+2017,Pahang,all,9552
+2017,Pahang,b,2625
+2017,Pahang,o,3745
+2017,Perak,a,10517
+2017,Perak,ab,2781
+2017,Perak,all,41975
+2017,Perak,b,11532
+2017,Perak,o,17145
+2017,Pulau Pinang,a,10521
+2017,Pulau Pinang,ab,2619
+2017,Pulau Pinang,all,41597
+2017,Pulau Pinang,b,11203
+2017,Pulau Pinang,o,17254
+2017,Sabah,a,7518
+2017,Sabah,ab,1634
+2017,Sabah,all,33767
+2017,Sabah,b,8221
+2017,Sabah,o,16394
+2017,Sarawak,a,9048
+2017,Sarawak,ab,2517
+2017,Sarawak,all,36617
+2017,Sarawak,b,10420
+2017,Sarawak,o,14632
+2017,Selangor,a,6398
+2017,Selangor,ab,1707
+2017,Selangor,all,26016
+2017,Selangor,b,7203
+2017,Selangor,o,10707
+2017,Terengganu,a,3929
+2017,Terengganu,ab,1104
+2017,Terengganu,all,15684
+2017,Terengganu,b,4491
+2017,Terengganu,o,6160
+2017,W.P. Kuala Lumpur,a,45901
+2017,W.P. Kuala Lumpur,ab,10818
+2017,W.P. Kuala Lumpur,all,180602
+2017,W.P. Kuala Lumpur,b,49103
+2017,W.P. Kuala Lumpur,o,74772
+2018,Johor,a,8969
+2018,Johor,ab,1968
+2018,Johor,all,36684
+2018,Johor,b,9846
+2018,Johor,o,15901
+2018,Kedah,a,15399
+2018,Kedah,ab,4305
+2018,Kedah,all,61869
+2018,Kedah,b,17389
+2018,Kedah,o,24776
+2018,Kelantan,a,3888
+2018,Kelantan,ab,999
+2018,Kelantan,all,14508
+2018,Kelantan,b,3981
+2018,Kelantan,o,5640
+2018,Melaka,a,7678
+2018,Melaka,ab,1896
+2018,Melaka,all,30170
+2018,Melaka,b,7947
+2018,Melaka,o,12649
+2018,Negeri Sembilan,a,4107
+2018,Negeri Sembilan,ab,1041
+2018,Negeri Sembilan,all,16976
+2018,Negeri Sembilan,b,4676
+2018,Negeri Sembilan,o,7152
+2018,Pahang,a,1799
+2018,Pahang,ab,466
+2018,Pahang,all,7095
+2018,Pahang,b,1940
+2018,Pahang,o,2890
+2018,Perak,a,10748
+2018,Perak,ab,2861
+2018,Perak,all,44062
+2018,Perak,b,12063
+2018,Perak,o,18390
+2018,Pulau Pinang,a,11016
+2018,Pulau Pinang,ab,2806
+2018,Pulau Pinang,all,43769
+2018,Pulau Pinang,b,11842
+2018,Pulau Pinang,o,18105
+2018,Sabah,a,7628
+2018,Sabah,ab,1599
+2018,Sabah,all,33850
+2018,Sabah,b,8132
+2018,Sabah,o,16491
+2018,Sarawak,a,8959
+2018,Sarawak,ab,2659
+2018,Sarawak,all,37290
+2018,Sarawak,b,10577
+2018,Sarawak,o,15095
+2018,Selangor,a,6569
+2018,Selangor,ab,1711
+2018,Selangor,all,26932
+2018,Selangor,b,7329
+2018,Selangor,o,11323
+2018,Terengganu,a,4329
+2018,Terengganu,ab,1266
+2018,Terengganu,all,17873
+2018,Terengganu,b,5123
+2018,Terengganu,o,7154
+2018,W.P. Kuala Lumpur,a,49010
+2018,W.P. Kuala Lumpur,ab,11660
+2018,W.P. Kuala Lumpur,all,194026
+2018,W.P. Kuala Lumpur,b,52605
+2018,W.P. Kuala Lumpur,o,80740
+2019,Johor,a,10277
+2019,Johor,ab,2128
+2019,Johor,all,41261
+2019,Johor,b,11043
+2019,Johor,o,17813
+2019,Kedah,a,10539
+2019,Kedah,ab,2869
+2019,Kedah,all,42506
+2019,Kedah,b,11979
+2019,Kedah,o,17119
+2019,Kelantan,a,3067
+2019,Kelantan,ab,801
+2019,Kelantan,all,11583
+2019,Kelantan,b,3046
+2019,Kelantan,o,4669
+2019,Melaka,a,7790
+2019,Melaka,ab,1835
+2019,Melaka,all,30233
+2019,Melaka,b,7790
+2019,Melaka,o,12818
+2019,Negeri Sembilan,a,4463
+2019,Negeri Sembilan,ab,1082
+2019,Negeri Sembilan,all,18306
+2019,Negeri Sembilan,b,4965
+2019,Negeri Sembilan,o,7796
+2019,Pahang,a,3872
+2019,Pahang,ab,1035
+2019,Pahang,all,15810
+2019,Pahang,b,4447
+2019,Pahang,o,6456
+2019,Perak,a,10354
+2019,Perak,ab,2573
+2019,Perak,all,41032
+2019,Perak,b,11159
+2019,Perak,o,16946
+2019,Pulau Pinang,a,10885
+2019,Pulau Pinang,ab,2803
+2019,Pulau Pinang,all,43448
+2019,Pulau Pinang,b,11353
+2019,Pulau Pinang,o,18407
+2019,Sabah,a,8122
+2019,Sabah,ab,1686
+2019,Sabah,all,36156
+2019,Sabah,b,8677
+2019,Sabah,o,17671
+2019,Sarawak,a,9055
+2019,Sarawak,ab,2650
+2019,Sarawak,all,37567
+2019,Sarawak,b,10829
+2019,Sarawak,o,15033
+2019,Selangor,a,6842
+2019,Selangor,ab,1810
+2019,Selangor,all,28065
+2019,Selangor,b,7576
+2019,Selangor,o,11836
+2019,Terengganu,a,3931
+2019,Terengganu,ab,1164
+2019,Terengganu,all,16304
+2019,Terengganu,b,4631
+2019,Terengganu,o,6578
+2019,W.P. Kuala Lumpur,a,50198
+2019,W.P. Kuala Lumpur,ab,11353
+2019,W.P. Kuala Lumpur,all,198506
+2019,W.P. Kuala Lumpur,b,53934
+2019,W.P. Kuala Lumpur,o,83009
+2020,Johor,a,9924
+2020,Johor,ab,2093
+2020,Johor,all,40705
+2020,Johor,b,10996
+2020,Johor,o,17692
+2020,Kedah,a,4647
+2020,Kedah,ab,1272
+2020,Kedah,all,18876
+2020,Kedah,b,5286
+2020,Kedah,o,7671
+2020,Kelantan,a,3401
+2020,Kelantan,ab,865
+2020,Kelantan,all,12757
+2020,Kelantan,b,3364
+2020,Kelantan,o,5127
+2020,Melaka,a,7072
+2020,Melaka,ab,1690
+2020,Melaka,all,27536
+2020,Melaka,b,7316
+2020,Melaka,o,11458
+2020,Negeri Sembilan,a,3988
+2020,Negeri Sembilan,ab,983
+2020,Negeri Sembilan,all,16398
+2020,Negeri Sembilan,b,4528
+2020,Negeri Sembilan,o,6899
+2020,Pahang,a,5720
+2020,Pahang,ab,1379
+2020,Pahang,all,22155
+2020,Pahang,b,6270
+2020,Pahang,o,8786
+2020,Perak,a,9919
+2020,Perak,ab,2558
+2020,Perak,all,40086
+2020,Perak,b,10924
+2020,Perak,o,16685
+2020,Pulau Pinang,a,9035
+2020,Pulau Pinang,ab,2202
+2020,Pulau Pinang,all,36512
+2020,Pulau Pinang,b,9807
+2020,Pulau Pinang,o,15468
+2020,Sabah,a,7576
+2020,Sabah,ab,1685
+2020,Sabah,all,34069
+2020,Sabah,b,8236
+2020,Sabah,o,16572
+2020,Sarawak,a,7923
+2020,Sarawak,ab,2277
+2020,Sarawak,all,33960
+2020,Sarawak,b,9684
+2020,Sarawak,o,14076
+2020,Selangor,a,7117
+2020,Selangor,ab,1824
+2020,Selangor,all,29234
+2020,Selangor,b,7794
+2020,Selangor,o,12497
+2020,Terengganu,a,3769
+2020,Terengganu,ab,1083
+2020,Terengganu,all,15361
+2020,Terengganu,b,4325
+2020,Terengganu,o,6184
+2020,W.P. Kuala Lumpur,a,42859
+2020,W.P. Kuala Lumpur,ab,9497
+2020,W.P. Kuala Lumpur,all,169941
+2020,W.P. Kuala Lumpur,b,45795
+2020,W.P. Kuala Lumpur,o,71779
+2021,Johor,a,9745
+2021,Johor,ab,2162
+2021,Johor,all,40409
+2021,Johor,b,10870
+2021,Johor,o,17632
+2021,Kedah,a,4852
+2021,Kedah,ab,1234
+2021,Kedah,all,19946
+2021,Kedah,b,5692
+2021,Kedah,o,8168
+2021,Kelantan,a,3144
+2021,Kelantan,ab,919
+2021,Kelantan,all,12095
+2021,Kelantan,b,3210
+2021,Kelantan,o,4822
+2021,Melaka,a,7082
+2021,Melaka,ab,1788
+2021,Melaka,all,27956
+2021,Melaka,b,7471
+2021,Melaka,o,11615
+2021,Negeri Sembilan,a,3609
+2021,Negeri Sembilan,ab,858
+2021,Negeri Sembilan,all,14935
+2021,Negeri Sembilan,b,4071
+2021,Negeri Sembilan,o,6397
+2021,Pahang,a,5767
+2021,Pahang,ab,1440
+2021,Pahang,all,22828
+2021,Pahang,b,6382
+2021,Pahang,o,9239
+2021,Perak,a,10380
+2021,Perak,ab,2590
+2021,Perak,all,43151
+2021,Perak,b,11602
+2021,Perak,o,18578
+2021,Pulau Pinang,a,8717
+2021,Pulau Pinang,ab,2077
+2021,Pulau Pinang,all,35211
+2021,Pulau Pinang,b,9527
+2021,Pulau Pinang,o,14890
+2021,Sabah,a,6836
+2021,Sabah,ab,1472
+2021,Sabah,all,31210
+2021,Sabah,b,7538
+2021,Sabah,o,15364
+2021,Sarawak,a,8277
+2021,Sarawak,ab,2307
+2021,Sarawak,all,35783
+2021,Sarawak,b,10286
+2021,Sarawak,o,14913
+2021,Selangor,a,6265
+2021,Selangor,ab,1502
+2021,Selangor,all,26094
+2021,Selangor,b,6984
+2021,Selangor,o,11340
+2021,Terengganu,a,3955
+2021,Terengganu,ab,1156
+2021,Terengganu,all,16180
+2021,Terengganu,b,4512
+2021,Terengganu,o,6557
+2021,W.P. Kuala Lumpur,a,43322
+2021,W.P. Kuala Lumpur,ab,9262
+2021,W.P. Kuala Lumpur,all,173967
+2021,W.P. Kuala Lumpur,b,47709
+2021,W.P. Kuala Lumpur,o,73662
+2022,Johor,a,10550
+2022,Johor,ab,2145
+2022,Johor,all,42832
+2022,Johor,b,11569
+2022,Johor,o,18568
+2022,Kedah,a,5211
+2022,Kedah,ab,1327
+2022,Kedah,all,21128
+2022,Kedah,b,5944
+2022,Kedah,o,8646
+2022,Kelantan,a,4042
+2022,Kelantan,ab,1010
+2022,Kelantan,all,15060
+2022,Kelantan,b,3838
+2022,Kelantan,o,6169
+2022,Melaka,a,7676
+2022,Melaka,ab,1795
+2022,Melaka,all,30510
+2022,Melaka,b,8114
+2022,Melaka,o,12925
+2022,Negeri Sembilan,a,3973
+2022,Negeri Sembilan,ab,770
+2022,Negeri Sembilan,all,15917
+2022,Negeri Sembilan,b,4240
+2022,Negeri Sembilan,o,6934
+2022,Pahang,a,6070
+2022,Pahang,ab,1459
+2022,Pahang,all,23851
+2022,Pahang,b,6612
+2022,Pahang,o,9708
+2022,Perak,a,11525
+2022,Perak,ab,2883
+2022,Perak,all,46498
+2022,Perak,b,12674
+2022,Perak,o,19414
+2022,Pulau Pinang,a,9593
+2022,Pulau Pinang,ab,2344
+2022,Pulau Pinang,all,38420
+2022,Pulau Pinang,b,10333
+2022,Pulau Pinang,o,16150
+2022,Sabah,a,8036
+2022,Sabah,ab,1750
+2022,Sabah,all,35530
+2022,Sabah,b,8759
+2022,Sabah,o,16985
+2022,Sarawak,a,9565
+2022,Sarawak,ab,2526
+2022,Sarawak,all,40129
+2022,Sarawak,b,11388
+2022,Sarawak,o,16648
+2022,Selangor,a,7213
+2022,Selangor,ab,1665
+2022,Selangor,all,29313
+2022,Selangor,b,7843
+2022,Selangor,o,12590
+2022,Terengganu,a,4466
+2022,Terengganu,ab,1251
+2022,Terengganu,all,18226
+2022,Terengganu,b,5081
+2022,Terengganu,o,7428
+2022,W.P. Kuala Lumpur,a,50271
+2022,W.P. Kuala Lumpur,ab,10614
+2022,W.P. Kuala Lumpur,all,202413
+2022,W.P. Kuala Lumpur,b,54975
+2022,W.P. Kuala Lumpur,o,86536
+2023,Johor,a,10621
+2023,Johor,ab,2296
+2023,Johor,all,43706
+2023,Johor,b,11664
+2023,Johor,o,19124
+2023,Kedah,a,5420
+2023,Kedah,ab,1345
+2023,Kedah,all,21564
+2023,Kedah,b,6044
+2023,Kedah,o,8754
+2023,Kelantan,a,4424
+2023,Kelantan,ab,1109
+2023,Kelantan,all,16716
+2023,Kelantan,b,4544
+2023,Kelantan,o,6639
+2023,Melaka,a,7280
+2023,Melaka,ab,1755
+2023,Melaka,all,28445
+2023,Melaka,b,7532
+2023,Melaka,o,11877
+2023,Negeri Sembilan,a,4052
+2023,Negeri Sembilan,ab,857
+2023,Negeri Sembilan,all,16417
+2023,Negeri Sembilan,b,4378
+2023,Negeri Sembilan,o,7130
+2023,Pahang,a,5801
+2023,Pahang,ab,1342
+2023,Pahang,all,22803
+2023,Pahang,b,6395
+2023,Pahang,o,9263
+2023,Perak,a,11565
+2023,Perak,ab,2790
+2023,Perak,all,46920
+2023,Perak,b,12962
+2023,Perak,o,19600
+2023,Pulau Pinang,a,10235
+2023,Pulau Pinang,ab,2597
+2023,Pulau Pinang,all,41633
+2023,Pulau Pinang,b,11319
+2023,Pulau Pinang,o,17482
+2023,Sabah,a,9049
+2023,Sabah,ab,1996
+2023,Sabah,all,39826
+2023,Sabah,b,9715
+2023,Sabah,o,19064
+2023,Sarawak,a,9984
+2023,Sarawak,ab,2499
+2023,Sarawak,all,41593
+2023,Sarawak,b,11922
+2023,Sarawak,o,17188
+2023,Selangor,a,7473
+2023,Selangor,ab,1557
+2023,Selangor,all,30132
+2023,Selangor,b,8290
+2023,Selangor,o,12810
+2023,Terengganu,a,4688
+2023,Terengganu,ab,1398
+2023,Terengganu,all,19360
+2023,Terengganu,b,5379
+2023,Terengganu,o,7892
+2023,W.P. Kuala Lumpur,a,51694
+2023,W.P. Kuala Lumpur,ab,10513
+2023,W.P. Kuala Lumpur,all,206288
+2023,W.P. Kuala Lumpur,b,56008
+2023,W.P. Kuala Lumpur,o,88058
+2024,Johor,a,8532
+2024,Johor,ab,1691
+2024,Johor,all,35130
+2024,Johor,b,9460
+2024,Johor,o,15447
+2024,Kedah,a,4035
+2024,Kedah,ab,982
+2024,Kedah,all,16080
+2024,Kedah,b,4548
+2024,Kedah,o,6515
+2024,Kelantan,a,3923
+2024,Kelantan,ab,983
+2024,Kelantan,all,14703
+2024,Kelantan,b,3808
+2024,Kelantan,o,5989
+2024,Melaka,a,5613
+2024,Melaka,ab,1428
+2024,Melaka,all,22352
+2024,Melaka,b,5957
+2024,Melaka,o,9354
+2024,Negeri Sembilan,a,3264
+2024,Negeri Sembilan,ab,655
+2024,Negeri Sembilan,all,13097
+2024,Negeri Sembilan,b,3562
+2024,Negeri Sembilan,o,5616
+2024,Pahang,a,4675
+2024,Pahang,ab,1053
+2024,Pahang,all,18415
+2024,Pahang,b,5145
+2024,Pahang,o,7542
+2024,Perak,a,8930
+2024,Perak,ab,2187
+2024,Perak,all,36208
+2024,Perak,b,9805
+2024,Perak,o,15284
+2024,Pulau Pinang,a,8150
+2024,Pulau Pinang,ab,2118
+2024,Pulau Pinang,all,33106
+2024,Pulau Pinang,b,8921
+2024,Pulau Pinang,o,13916
+2024,Sabah,a,7027
+2024,Sabah,ab,1546
+2024,Sabah,all,31059
+2024,Sabah,b,7515
+2024,Sabah,o,14970
+2024,Sarawak,a,7869
+2024,Sarawak,ab,1986
+2024,Sarawak,all,32552
+2024,Sarawak,b,9200
+2024,Sarawak,o,13496
+2024,Selangor,a,6041
+2024,Selangor,ab,1365
+2024,Selangor,all,24886
+2024,Selangor,b,6850
+2024,Selangor,o,10630
+2024,Terengganu,a,3885
+2024,Terengganu,ab,1135
+2024,Terengganu,all,15830
+2024,Terengganu,b,4421
+2024,Terengganu,o,6389
+2024,W.P. Kuala Lumpur,a,39957
+2024,W.P. Kuala Lumpur,ab,8095
+2024,W.P. Kuala Lumpur,all,158514
+2024,W.P. Kuala Lumpur,b,42602
+2024,W.P. Kuala Lumpur,o,67846
