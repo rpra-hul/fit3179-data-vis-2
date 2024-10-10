@@ -1,8 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie Chart showing blood donations by blood type, filtered by year and state.",
+    "width": 400,
+    "height": 400,
     "data": {
-      "url": "annual_blood_donations.csv"
+      "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/pie_chart/annual_blood_donations.csv"
     },
     "params":[
         {

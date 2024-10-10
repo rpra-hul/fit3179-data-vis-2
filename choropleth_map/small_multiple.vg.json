@@ -14,14 +14,14 @@
         }
     ],
     "data": {
-        "url": "healthcare_staff.csv"
+        "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/healthcare_staff.csv"
     },
     "transform": [
         {
             "lookup": "state",
             "from": {
                 "data": {
-                    "url": "gadm41_MYS_1.json",
+                    "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/choropleth_map/gadm41_MYS_1.json",
                     "format": {
                         "type": "topojson",
                         "feature": "gadm41_MYS_1"

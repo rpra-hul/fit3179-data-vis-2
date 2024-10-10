@@ -16,7 +16,7 @@
         }
     ],  
     "data": {
-        "url": "hospital_beds.csv"
+        "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/stacked_bar_chart/hospital_beds.csv"
     },
     "transform":[
         {"filter": "year(datum.date) == year_selection"}
