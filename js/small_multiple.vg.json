@@ -1,0 +1,66 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Number of Healthcare Staff by State in Malaysia",
+    "params": [
+        {
+            "name": "year_selection",
+            "value": 2022,
+            "bind": {
+                "input": "range",
+                "min": 2014,
+                "max": 2022,
+                "step": 1
+            }
+        }
+    ],
+    "data": {
+        "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/healthcare_staff.csv"
+    },
+    "transform": [
+        {
+            "lookup": "state",
+            "from": {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/choropleth_map/gadm41_MYS_1.json",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "gadm41_MYS_1"
+                    }
+                },
+                "key": "properties.NAME_1"
+            },
+            "as": "geo"
+        },
+        {"filter": "year(datum.date) == year_selection"}
+    ],
+    "facet": {
+        "field": "type",
+        "type": "nominal",
+        "title": "Healthcare Staff Type"
+    },
+    "spec": {
+        "width": 400,
+        "height": 250,
+        "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.5},
+        "encoding": {
+            "shape": {
+                "field": "geo",
+                "type": "geojson"
+            },
+            "color": {
+                "field": "staff",
+                "type": "quantitative",
+                "scale": {
+                    "domain": [6, 719, 1689, 3179, 5023, 10376],
+                    "range": ["#fef0d9", "#fdcc8a", "#fc8d59", "#e34a33", "#b30000"]
+                }
+            },
+            "tooltip": [
+                {"field": "state", "type": "nominal", "title": "State"},
+                {"field": "staff", "type": "quantitative", "title": "Number of staff"},
+                {"field": "date", "type": "ordinal", "title": "Year"}
+            ]
+        }
+    },
+    "columns": 2
+}

@@ -1,18 +1,19 @@
 import pandas as pd
 
-# Read the daily blood donations data
-df = pd.read_csv('test/blood_donations_state.csv')
+# Step 1: Read the CSV file
+df = pd.read_csv('heatmap/organ_pledges_state.csv')
 
-# Convert the 'date' column to datetime format
-df['date'] = pd.to_datetime(df['date'])
+# Step 2: Convert the date column to datetime
+df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
 
-# Extract the year from the 'date' column
-df['year'] = df['date'].dt.year
+# Step 3: Extract year and month from the date column
+df['year_month'] = df['date'].dt.to_period('M')
 
-# Group by year, state, and blood type, and sum the donations
-annual_df = df.groupby(['year', 'state', 'blood_type']).agg({'donations': 'sum'}).reset_index()
+# Step 4: Group by state and year_month, then sum the pledges
+monthly_df = df.groupby(['state', 'year_month'])['pledges'].sum().reset_index()
 
-# Write the aggregated data to a new CSV file
-annual_df.to_csv('test/annual_blood_donations.csv', index=False)
+# Step 5: Convert the year_month back to a datetime format for better readability
+monthly_df['year_month'] = monthly_df['year_month'].dt.to_timestamp()
 
-print("Annual blood donations data has been saved to 'annual_blood_donations.csv'")
+# Step 6: Save the new DataFrame to a CSV file
+monthly_df.to_csv('heatmap/monthly_organ_pledges.csv', index=False)

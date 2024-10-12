@@ -1,0 +1,43 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pie Chart showing blood donations by blood type, filtered by year and state.",
+    "width": 400,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/pie_chart/annual_blood_donations.csv"
+    },
+    "params":[
+        {
+            "name": "year_selection",
+            "value": 2022,
+            "bind": {
+                "input": "range",
+                "min": 2006,
+                "max": 2024,
+                "step": 1
+            }
+        },
+        {
+            "name": "state_selection",
+            "value": "Johor",
+            "bind": {
+                "input": "select",
+                "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "W.P. Kuala Lumpur"]
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "datum.blood_type != 'all'"},
+        {"filter": "datum.year == year_selection"},
+        {"filter": "datum.state == state_selection"}
+    ],
+    "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+      "theta": {"field": "donations", "type": "quantitative", "stack": "normalize"},
+      "color": {"field": "blood_type", "type": "nominal"},
+      "tooltip": [
+        {"field": "blood_type", "type": "nominal", "title": "Blood Type"},
+        {"field": "donations", "type": "quantitative", "title": "Total Donations"}
+      ]
+    }
+  }
