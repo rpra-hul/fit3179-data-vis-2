@@ -1,12 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 500,
-    "title": "Annual Blood Donations by State (2015 - 2022)", 
+    "width": 650,
+    "height": 400,
     "params": [
         {
             "name": "year_selection",
-            "value": 2022,
+            "value": 2024,
             "bind": {
                 "input": "range",
                 "min": 2006,
@@ -50,13 +49,20 @@
             "aggregate": "sum",
             "field": "donations",
             "type": "quantitative",
-            "axis": {"title": "Population"},
+            "axis": {"title": "Population (%)"},
             "stack": "normalize"
         },
         "color": {
             "field": "full_name",
             "type": "nominal",
-            "title": "Blood Type"
+            "title": "Blood Type",
+            "legend": {
+                        "title": "Blood Type",
+                        "orient": "right",
+                        "labelFontSize": 12,
+                        "titleFontSize": 14,
+                        "titleFontWeight": "bold"
+                    }
         },
         "tooltip": [
             {"field": "state", "type": "nominal", "title": "State"},

@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie Chart showing hospital beds in the year 2022 by state",
-    "width": 400,
-    "height": 400,
+    "width": 325,
+    "height": 350,
     "data": {
       "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/hospital_beds.csv"
     },
@@ -45,11 +45,11 @@
                     "type": "nominal",
                     "title": "Hospital Type",
                     "legend": {
-                    "title": "Hospital Type",
-                    "orient": "right",
-                    "labelFontSize": 12,
-                    "titleFontSize": 14,
-                    "titleFontWeight": "bold"
+                        "title": "Hospital Type",
+                        "orient": "right",
+                        "labelFontSize": 12,
+                        "titleFontSize": 14,
+                        "titleFontWeight": "bold"
                     }
                 },
                 "tooltip": [
@@ -77,7 +77,7 @@
                     "as": "annotation_text"
                 }
             ],
-            "mark": {"type": "text", "align": "center","dx": 0, "dy": -215, "color": "black"},
+            "mark": {"type": "text", "align": "center","dx": 0, "dy": -200, "color": "black"},
             "encoding": {
               "text": {"field": "annotation_text", "type": "nominal"},
               "color": {"value": "black"}
