@@ -3,7 +3,7 @@
     "width": 800,
     "height": 500,
     "data": {
-      "url": "monthly_organ_pledges.csv"
+      "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/monthly_organ_pledges.csv"
     },
     "title": "Monthly Organ Donor Pledges",
     "params": [

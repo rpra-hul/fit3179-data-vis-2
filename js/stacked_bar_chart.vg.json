@@ -17,7 +17,7 @@
         }
     ],  
     "data": {
-        "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/pie_chart/annual_blood_donations.csv"
+        "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/annual_blood_donations.csv"
     },
     "transform":[
         {"filter": "datum.year == year_selection"},

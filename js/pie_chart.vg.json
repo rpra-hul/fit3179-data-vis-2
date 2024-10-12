@@ -1,0 +1,87 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pie Chart showing hospital beds in the year 2022 by state",
+    "width": 400,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/hospital_beds.csv"
+    },
+    "params":[
+        {
+            "name": "state_selection",
+            "value": "Johor",
+            "bind": {
+                "input": "select",
+                "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "W.P. Kuala Lumpur", "W.P. Labuan", "W.P. Putrajaya"],
+                "name": "Select a State: "
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "year(datum.date) == 2022"},
+        {"filter": "datum.state == state_selection"},
+        {
+            "lookup": "type",
+            "from": {
+                "data": {
+                    "values": [
+                        {"type": "hospital_moh", "full_name": "Government Hospitals"},
+                        {"type": "hospital_non_moh", "full_name": "Agency Hospitals"},
+                        {"type": "special_medical_institution", "full_name": "Special Medical Institutions"}
+                    ]
+                },
+                "key": "type",
+                "fields": ["full_name"]
+            }
+        }
+    ],
+    "layer": [
+        {
+            "mark": {"type": "arc", "tooltip": true},
+            "encoding": {
+                "theta": {"field": "beds", "type": "quantitative", "stack": "normalize"},
+                "color": {
+                    "field": "full_name",
+                    "type": "nominal",
+                    "title": "Hospital Type",
+                    "legend": {
+                    "title": "Hospital Type",
+                    "orient": "right",
+                    "labelFontSize": 12,
+                    "titleFontSize": 14,
+                    "titleFontWeight": "bold"
+                    }
+                },
+                "tooltip": [
+                    {"field": "full_name", "type": "nominal", "title": "Hospital Type"},
+                    {"field": "beds", "type": "quantitative", "title": "Number of Beds"}
+                ]
+            }
+        },
+        {
+            "transform": [
+                {
+                    "aggregate": [{"op": "sum", "field": "beds", "as": "total_beds"}],
+                    "groupby": ["state", "full_name"]
+                },
+                {
+                    "window": [{"op": "rank", "as": "rank"}],
+                    "sort": [{"field": "total_beds", "order": "descending"}],
+                    "groupby": ["state"]
+                },
+                {
+                    "filter": "datum.rank == 1"
+                },
+                {
+                    "calculate": "'In ' + datum.state + ', the majority of beds are in ' + datum.full_name",
+                    "as": "annotation_text"
+                }
+            ],
+            "mark": {"type": "text", "align": "center","dx": 0, "dy": -215, "color": "black"},
+            "encoding": {
+              "text": {"field": "annotation_text", "type": "nominal"},
+              "color": {"value": "black"}
+            }
+        }
+    ]
+}
