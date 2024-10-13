@@ -1,6 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Number of Healthcare Staff by State in Malaysia",
     "params": [
         {
             "name": "year_selection",
@@ -9,7 +8,8 @@
                 "input": "range",
                 "min": 2014,
                 "max": 2022,
-                "step": 1
+                "step": 1,
+                "name": "Select a Year: "
             }
         }
     ],
@@ -31,12 +31,16 @@
             },
             "as": "geo"
         },
-        {"filter": "year(datum.date) == year_selection"}
+        {"filter": "year(datum.date) == year_selection"},
+        {
+            "calculate": "datum.type == 'doctor' ? 'Doctors' : datum.type == 'nurse' ? 'Nurses' : datum.type == 'dentist' ? 'Dentists' : datum.type == 'nurse_community' ? 'Community Nurses' : datum.type",
+            "as": "renamed_type"
+        }
     ],
     "facet": {
-        "field": "type",
+        "field": "renamed_type",
         "type": "nominal",
-        "title": "Healthcare Staff Type"
+        "title": null
     },
     "spec": {
         "width": 350,
@@ -53,7 +57,12 @@
                 "scale": {
                     "domain": [6, 719, 1689, 3179, 5023, 10376],
                     "range": ["#fef0d9", "#fdcc8a", "#fc8d59", "#e34a33", "#b30000"]
-                }
+                },
+                "legend": {
+                        "title": "Staff Count",
+                        "orient": "right",
+                        "titleFontWeight": "bold"
+                    }
             },
             "tooltip": [
                 {"field": "state", "type": "nominal", "title": "State"},

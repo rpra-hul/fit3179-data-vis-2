@@ -1,11 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 500,
+    "width": 530,
+    "height": 430,
     "data": {
       "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/monthly_organ_pledges.csv"
     },
-    "title": "Monthly Organ Donor Pledges",
     "params": [
         {
             "name": "state_selection",

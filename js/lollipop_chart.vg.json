@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Lollipop chart showing the number of companies per state",
-    "width": 800,
-    "height": 500,
+    "width": 550,
+    "height": 400,
     "data": {
       "url": "https://raw.githubusercontent.com/rpra-hul/fit3179-data-vis-2/refs/heads/master/data/pharmaceutical_manufacturers.csv"
     },

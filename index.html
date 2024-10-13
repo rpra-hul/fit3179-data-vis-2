@@ -16,6 +16,17 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <!-- Preconnect to Google Fonts for better performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Link to Lato font -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Link to Protest Strike font -->
+    <link href="https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -31,6 +42,7 @@
         <!--Main content-->
         <div class="pure-g">
             <div class="pure-u-1-1">
+                <h2 style="text-align: center;">Healthcare Staff Distribution by State (2014 - 2022)</h2>
                 <div id="choropleth_map"></div>
                 <script>
                     var vg_1 = "js/small_multiple.vg.json";
@@ -88,6 +100,43 @@
                     }).catch(console.error);
                 </script>
             </div>          
+        </div>
+
+        <hr class="rounded">
+
+        <h2 style="text-align: center;">Monthly Organ Pledges by State (2009 - 2024)</h2>
+
+        <div class="pure-g">
+            <div class="pure-u-1-5">
+                <p>By highlighting variations in pledges over time and across regions, it provides insights
+                into the effectiveness of awareness campaigns and organ donation initiatives, helping to 
+                identify patterns and areas where further efforts may be needed to encourage pledges.</p>
+            </div>
+
+            <div class="pure-u-4-5">
+                <div id="heatmap">
+                    <script>
+                        var vg_4 = "js/heatmap.vg.json";
+                        vegaEmbed("#heatmap", vg_4).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                        }).catch(console.error);
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <hr class="rounded">
+
+        <div class="pure-u-1-1">
+            <h2 style="text-align: center;">Approved Pharmaceutical Manufacturers by State (2024)</h2>
+            <div id="lollipop_chart">
+                <script>
+                    var vg_5 = "js/lollipop_chart.vg.json";
+                    vegaEmbed("#lollipop_chart", vg_5).then(function(result) {
+                    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                    }).catch(console.error);
+                </script>
+            </div>
         </div>
 
     </div>
