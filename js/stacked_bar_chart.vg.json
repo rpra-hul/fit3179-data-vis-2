@@ -49,7 +49,7 @@
             "aggregate": "sum",
             "field": "donations",
             "type": "quantitative",
-            "axis": {"title": "Population (%)"},
+            "axis": {"title": "Donations (%)"},
             "stack": "normalize"
         },
         "color": {

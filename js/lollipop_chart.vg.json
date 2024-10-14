@@ -1,6 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Lollipop chart showing the number of companies per state",
     "width": 550,
     "height": 400,
     "data": {

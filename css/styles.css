@@ -3,7 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #d3d3d3;
+    background-color: #faa0a0;
 }
 
 /* Container */
@@ -45,16 +45,6 @@ p {
     line-height: 1.6;
     margin: 10px 0;
     font-family: 'Lato', sans-serif;
-}
-
-/* Links */
-a {
-    color: #333;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 /* Borders */
